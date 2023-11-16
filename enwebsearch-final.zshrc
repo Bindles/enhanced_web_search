@@ -25,7 +25,7 @@ function web_search() {
     ask             "https://www.ask.com/web?q="
     youtube         "https://www.youtube.com/results?search_query="
   )
-
+  #bookmark/varaiable names go here[=>]
   hart="C:/Users/Owner/Downloads/TorrentDev/Hartl%20M.%20Ruby%20on%20Rails%20Tutorial.%20Learn%20Web%20Development..7ed%202022/Hartl%20M.%20Ruby%20on%20Rails%20Tutorial.%20Learn%20Web%20Development..7ed%202022.pdf"
 
   if [[ $1 == "openb" ]]; then
