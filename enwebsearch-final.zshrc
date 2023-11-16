@@ -1,4 +1,4 @@
-function www() {
+function web_search() {
   emulate -L zsh
   
   # define search engine URLS
@@ -44,6 +44,7 @@ function www() {
     fi
   fi
 }
+alias openb='web_seacrh openb'
 alias bing='web_search bing'
 alias brs='web_search brave'
 alias google='web_search google'
